@@ -1,0 +1,756 @@
+Category: email
+RecordName: Web.DE
+SubName: AnnaFrey03
+Password: 1Chronicles@20.6
+FirstEmail: AnnaFrey03@web.de
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Web.DE
+SubName: popupmenu
+Password: @HPihVsUzR
+FirstEmail: popupmenu@web.de
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Web.DE
+SubName: popupmenu02
+Password: VZ@eYGSft2
+FirstEmail: popupmenu02@web.de
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Web.DE
+SubName: Site-001
+Password: 2Thessalonians@2.9
+FirstEmail: Site-001@web.de
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Web.DE
+SubName: VictoriaKaplan
+Password: 0a08eMn1@3
+FirstEmail: VictoriaKaplan@web.de
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Web.DE
+SubName: WiredComputers
+Password: Ab091416
+FirstEmail: WiredComputers@web.de
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: MIAWisdom03
+Password: Proverbs@3.6
+FirstEmail: MIAWisdom03@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: PopUpMenu_autohotkey
+Password: Rev06.05
+FirstEmail: PopUpMenu_autohotkey@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: TheFloadBeard
+Password: Hebrews@6.10
+FirstEmail: TheFloadBeard@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: Web_Air
+Password: Rev06.05
+FirstEmail: Web_Air@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: WebAir
+Password: Numbers@21.14
+FirstEmail: WebAir@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: WiredComputers
+Password: Rev06.05 -OR- GUhH3re@
+FirstEmail: WiredComputers@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Web.DE
+SubName: popupmenu01
+Password: +QRFzAdnrLqAldT#
+FirstEmail: popupmenu01@web.de
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: MidnightItsAlmost
+Password: WOHklGtr*w*tSYCp
+FirstEmail: MidnightItsAlmost@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Protonmail
+SubName: AnnaFreyPublikationen
+Password: XprTTVVI*cPDahHT
+FirstEmail: AnnaFreyPublikationen@protonmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: Digital_Enterprises_Tech
+Password: CQBCsV@tBwPayeHK
+FirstEmail: digital_enterprises_tech@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Yahoo
+SubName: PopUpMenu
+Password: NJ!ca@rYfltMyNLr
+FirstEmail: PopUpMenu@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Mozilla Firefox
+SubName: WackedWacko
+Password: jZLH+IBubpQFCXa5
+FirstEmail: WackedWacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: ivanBrawnovich
+Password: PSu+5oUg_B@Efcha
+FirstEmail: ivanBrawnovich@gmail.com
+LoginName: EtsyProducts3
+=========================
+Category: email
+RecordName: GMail
+SubName: JoeRobertBush
+Password: zIA!OY$gnm_WdLdR
+FirstEmail: JoeRobertBush@gmail.com
+LoginName: JoeRobertBush
+=========================
+Category: email
+RecordName: GMail
+SubName: Esty-4 EstyProducts1
+Password: =XkEylkYX5Xw*yrXZ
+FirstEmail: EstyProducts1@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: Etsy-3 ZarephathBarlow
+Password: @le*KQZ2Lp@*@utMT
+FirstEmail: ZarephathBarlow@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: Esty-5 candyhopkins462
+Password: Z@Ya^vqK3Y*DkzoyZ
+FirstEmail: candyhopkins462@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Gmail
+SubName: Etsy-6 shawnkeller586
+Password: Fyb$^Qf3@P=pJu$fj
+FirstEmail: shawnkeller586@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: Esty-7 kalsanders65
+Password: LYxiMl*bh1L@S_slz
+FirstEmail: kalsanders65@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: MatthewWeepon
+Password: wEZv=rhO9WB!MpHUa
+FirstEmail: MatthewWeepon@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: sandyfairlady05
+Password: uhKHBuCYRpEOg@NS
+FirstEmail: sandyfairlady05@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: Etsy-2 annebush03
+Password: E@tiN$URCw3RjMdyL
+FirstEmail: annebush03@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: Etsy-1 dmoritz0815
+Password: zFUyojV5d8D_igIWb
+FirstEmail: dmoritz0815@googlemail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: WackedWacko
+Password: XWS7dMna9RX!AqCBbn
+FirstEmail: WackedWacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: Gmail_Yahoo
+SubName: digital_enterprises_tech
+Password: muDDZs^ga5dpJ@MfS
+FirstEmail: digital_enterprises_tech@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: email
+RecordName: GMail
+SubName: Esty-9 PopUpMenu.system
+Password: EdfCzuT=_ylAnkcZ
+FirstEmail: PopUpMenu.system@gmail.com
+LoginName: @MenuPopup  For X Login
+=========================
+Category: money
+RecordName: PayPal
+SubName: annafrey03@web.de
+Password: Ab091416
+FirstEmail: <EMPTY>
+LoginName: annafrey03@web.de
+=========================
+Category: money
+RecordName: PayPal
+SubName: dmoritz0815@googlemail.com
+Password: huschelinchen01
+FirstEmail: dmoritz0815@googlemail.com
+LoginName: dmoritz0815@googlemail.com
+=========================
+Category: money
+RecordName: PayPal
+SubName: WiredComputers@web.de
+Password: Rev06.05 -OR- Ab091416
+FirstEmail: WiredComputers@web.de
+LoginName: <EMPTY>
+=========================
+Category: money
+RecordName: podia.com
+SubName: popupmenu.system@gmail.com
+Password: (PWbq&y2C=
+FirstEmail: popupmenu.system@gmail.com
+LoginName: popupmenu.system@gmail.com
+=========================
+Category: money
+RecordName: PayPal
+SubName: PopUpMenu.system@gmail.com
+Password: bVtIv#IyutI1n56z*_p
+FirstEmail: PopUpMenu.system@gmail.com
+LoginName: PopUpMenu.system@gmail.com
+=========================
+Category: program
+RecordName: Lingvanex
+SubName: WackedWacko
+Password: B6XG5mvR8atnhJ9Z
+FirstEmail: WackedWacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: program
+RecordName: Microsoft
+SubName: IvanBrawnovich@gmail.com
+Password: Cex_8A9pF@3R
+FirstEmail: IvanBrawnovich@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: program
+RecordName: Microsoft
+SubName: PopUpMenu.system@gmail.com
+Password: nw&sT_r+LWq
+FirstEmail: PopUpMenu.system@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: program
+RecordName: DigitalCert
+SubName: For PopUpMenu
+Password: cEzeO$n!UizCje#y
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: program
+RecordName: Unity
+SubName: PopUpMenu.system
+Password: PYpHgSb5zAg!wmrn
+FirstEmail: PopUpMenu.system@gmail.com
+LoginName: PopUpMenu
+=========================
+Category: program
+RecordName: SupRemo
+SubName: Remote_Desktop
+Password: nFMtOKOsalsr99G
+FirstEmail: PopUpMenu.system@gmail.com
+LoginName: PopUpMenu
+=========================
+Category: program
+RecordName: Speechelo
+SubName: Text-ToSpeech
+Password: 2dGekhi9moCmo
+FirstEmail: dmoritz0815@googlemail.com
+LoginName: dmoritz0815@googlemail.com
+=========================
+Category: program
+RecordName: Microsoft
+SubName: annebush03@gmail.con
+Password: AnneBush@BobbyBush
+FirstEmail: annebush03@gmail.con
+LoginName: <EMPTY>
+=========================
+Category: program
+RecordName: Microsoft
+SubName: WackedWacko@gmail.com
+Password: #xGnMB3Bz^cfUJMUa
+FirstEmail: WackedWacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: program
+RecordName: ashampoo
+SubName: WackedWacko
+Password: jB@062597
+FirstEmail: wackedwacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: browser
+RecordName: FireFox
+SubName: WackedWacko
+Password: Hebrew@13.4
+FirstEmail: WackedWacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: browser
+RecordName: Coowon
+SubName: PopUpMenu001
+Password: aZq@dh7G@Xt5
+FirstEmail: PopUpMenu001@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: browser
+RecordName: Yandex
+SubName: WackedWacko
+Password: XzMst^iLkK5+uPh+
+FirstEmail: WackedWacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: browser
+RecordName: Arc
+SubName: WackedWacko
+Password: dVDCLlgTx#M5EgOyZ
+FirstEmail: wackedwacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Michelle
+SubName: Work
+Password: <EMPTY>
+FirstEmail: michelle.l.hendricks@lonestar.edu
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Dawane
+SubName: McDonnell
+Password: <EMPTY>
+FirstEmail: deexterous@hotmail.com
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Gisela
+SubName: McDonnell
+Password: <EMPTY>
+FirstEmail: gis_mac78@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Joshua
+SubName: Bush
+Password: <EMPTY>
+FirstEmail: joshuab84@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Mariece
+SubName: McDonnell
+Password: <EMPTY>
+FirstEmail: mac01_m@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Me
+SubName: Too
+Password: <EMPTY>
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Michelle
+SubName: Who_Knows
+Password: <EMPTY>
+FirstEmail: michelle.hendricks63@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Shelton
+SubName: Unknown
+Password: <EMPTY>
+FirstEmail: sheltonhinkle99@Gmail.com
+LoginName: <EMPTY>
+=========================
+Category: contact
+RecordName: Tom
+SubName: Seine
+Password: <EMPTY>
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: forum
+RecordName: FR_forums.commentcamarche.net
+SubName: PopUpMenu
+Password: C^E<8A(dgq
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: forum
+RecordName: SV_forum.shiftdelete.net
+SubName: PopUpMenu
+Password: yPGYDER9nQ
+FirstEmail: popupmenu.system@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: forum
+RecordName: TR_forum.shiftdelete.net
+SubName: PopUpMenu
+Password: Magdnj6CzN
+FirstEmail: popupmenu.system@gmail.com
+LoginName: PopUpMenu
+=========================
+Category: forum
+RecordName: www.psd-tutorials.de
+SubName: @Ivan$Brawnovich&
+Password: NKvePQyn2T
+FirstEmail: ivanbrawnovich@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: forum
+RecordName: Gmail
+SubName: Etsy-6 shawnkeller586
+Password: $Nb$aXCUGl^JbZOC
+FirstEmail: shawnkeller586@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: game
+RecordName: MetalForce
+SubName: <EMPTY>
+Password: W7XF4uLw
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: game
+RecordName: na.alienwarearena.com
+SubName: WackedWacko@Gmail.com
+Password: fxG4ws@rET2
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: game
+RecordName: Stream
+SubName: JustAnotherWacko
+Password: mT@041880
+FirstEmail: ZarephathBarlow@gmail.com
+LoginName: JustAnotherWacko
+=========================
+Category: game
+RecordName: Origin
+SubName: WackedWacko
+Password: kwKtpkJ8FHQ^mvlRD
+FirstEmail: WackedWacko@gmail.com
+LoginName: Wacked_Help
+=========================
+Category: game
+RecordName: Stream
+SubName: WackedWacko
+Password: yUJMqZFk+!fvsogf
+FirstEmail: WackedWacko@gmail.com
+LoginName: _WackedWacko_
+=========================
+Category: game
+RecordName: AssaultBots
+SubName: WackedWacko
+Password: jB@062597
+FirstEmail: WackedWacko@gmail.com
+LoginName: Wacked
+=========================
+Category: game
+RecordName: AssaultBots
+SubName: BabyBunny
+Password: MyBabyBunny
+FirstEmail: IvanBrawnovich@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: game
+RecordName: ForwardAssault
+SubName: Wacked
+Password: jB@062597
+FirstEmail: PopUpMenu.system@gmail.com
+LoginName: Wacked
+=========================
+Category: game
+RecordName: Battlefeild_2142
+SubName: battlelog.co
+Password: h+NeomczQqsX&Ff
+FirstEmail: WackedWacko@gmail.com
+LoginName: WackedWacko
+=========================
+Category: game
+RecordName: Modern_Assult_Tanks
+SubName: MS_App
+Password: iDNwldkc
+FirstEmail: WackedWacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: game
+RecordName: Armored_Warfare
+SubName: WackedWacko
+Password: @_QqmRFWpqOhZUM_
+FirstEmail: wackedwacko@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: game
+RecordName: UBISOFT
+SubName: WackedWacko
+Password: A^neB!fx3H=OePs=
+FirstEmail: WackedWacko@gmail.com
+LoginName: Mallanderen
+=========================
+Category: game
+RecordName: PlanetSide2
+SubName: MenacingMouse
+Password: jb062597
+FirstEmail: MenacingMouse@Juno.com
+LoginName: MenacingMouse
+=========================
+Category: game
+RecordName: PlanetSide2
+SubName: PapaCapInYou
+Password: jb062597
+FirstEmail: <EMPTY>
+LoginName: PapaCapInYou
+=========================
+Category: game
+RecordName: PlanetSide2
+SubName: SnootySnooter
+Password: jb062597
+FirstEmail: WackedWacko@Juno.com
+LoginName: SnootySnooter
+=========================
+Category: game
+RecordName: (_WarGaming_)
+SubName: MTWeepon
+Password: oiSd1&IY#^&cV=Vse
+FirstEmail: MatthewWeepon@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: game
+RecordName: PlanetSide2
+SubName: Weepon
+Password: jb062597
+FirstEmail: MatthewWeepon@gmail.com
+LoginName: Weepon
+=========================
+Category: internet
+RecordName: Phone_Number
+SubName: en.sms-online.com
+Password: hm8jcYsvee6Frc4
+FirstEmail: popupmenu.system@gmail.com
+LoginName: popupmenu.system@gmail.com
+=========================
+Category: internet
+RecordName: TextNow
+SubName: 646 439-6562
+Password: FwQ76EyjSv
+FirstEmail: ivanbrawnovich@gmail.com
+LoginName: ivanbrawnovich@gmail.com
+=========================
+Category: mailer
+RecordName: MailChimp
+SubName: PopUpMenu
+Password: Hebrews@6.10
+FirstEmail: PopUpMenu.system@gmail.com
+LoginName: PopUpMenu
+=========================
+Category: social
+RecordName: bitchute.com
+SubName: popupmrnu@yahoo.com
+Password: WO@oFJD3tu
+FirstEmail: popupmrnu@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: buzzfeed.com
+SubName: popupmenu@yahoo.com
+Password: @K2mjGHFZM
+FirstEmail: popupmenu@yahoo.com
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: instagram.com
+SubName: PopUpMenuToday
+Password: WZtxD1CP4LQQ
+FirstEmail: <EMPTY>
+LoginName: PopUpMenuToday
+=========================
+Category: social
+RecordName: instagram.com
+SubName: WindowsPopUpMenu
+Password: kfW7KxF48bBUjpZR -OR- 3@d(!*9thM
+FirstEmail: popupmenu.system@gmail.com
+LoginName: WindowsPopUpMenu
+=========================
+Category: social
+RecordName: linkedin.com
+SubName: popupmenu.system@gmail.com
+Password: acnKeExuXv
+FirstEmail: popupmenu.system@gmail.com
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: linkedin.com
+SubName: PopUpMenu
+Password: 3@d(!*9thM
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: linkedin.com
+SubName: Signed Up With Google
+Password: ghzAEXnaNd
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: Pinterest.de
+SubName: PopUpMenu Login in with Google
+Password: <EMPTY>
+FirstEmail: popupmenu.system@gmail.com
+LoginName: PopUpMenu
+=========================
+Category: social
+RecordName: Reddit
+SubName: Signed Up With Google
+Password: <EMPTY>
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: SnapChat
+SubName: WinPopUpMenu
+Password: PngStWkQUh
+FirstEmail: popupmenu.system@gmail.com
+LoginName: WinPopUpMenu
+=========================
+Category: social
+RecordName: TikTok
+SubName: dmoritz0815 With Google
+Password: <EMPTY>
+FirstEmail: dmoritz0815@googlemail.com
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: TikTok
+SubName: PopUpMenu Login With Google
+Password: 3@d(!*9thM
+FirstEmail: popupmenu.system@gmail.com
+LoginName: WindowsPopUpMenu -OR- popupmenu_windows
+=========================
+Category: social
+RecordName: Twitch
+SubName: WindowsPopUpMenu
+Password: FabVjdQzBC
+FirstEmail: popupmenu.system@gmail.com
+LoginName: 795887
+=========================
+Category: social
+RecordName: Twitter
+SubName: @brawnovich
+Password: c9RUDtfqje
+FirstEmail: IvanBrawnovich@gmail.com
+LoginName: @brawnovich
+=========================
+Category: social
+RecordName: Twitter
+SubName: @MItsalmost
+Password: 2P8pw@YDJ4R
+FirstEmail: <EMPTY>
+LoginName: @MItsalmost
+=========================
+Category: social
+RecordName: Twitter
+SubName: @pop_menu
+Password: P85hyZE4cd
+FirstEmail: WiredComputers@yahoo.com
+LoginName: @pop_menu
+=========================
+Category: social
+RecordName: Twitter
+SubName: @PopUpMenu000
+Password: wgK2cXnnw@
+FirstEmail: popupmenu02@web.de
+LoginName: @PopUpMenu000
+=========================
+Category: social
+RecordName: Twitter
+SubName: @PopUpMenu13
+Password: 9aEXVA7jzc
+FirstEmail: ZarephathBarlow@gmail.com
+LoginName: @PopUpMenu13
+=========================
+Category: social
+RecordName: UnKnown
+SubName: @PopUpMenu14
+Password: <EMPTY>
+FirstEmail: MIAWisdom03@yahoo.com
+LoginName: PopUpMenu
+=========================
+Category: social
+RecordName: Twitter
+SubName: @PopUpMenu15
+Password: aH9AWdg6Tx
+FirstEmail: Site-001@web.de
+LoginName: @PopUpMenu15
+=========================
+Category: social
+RecordName: Twitter
+SubName: popupmenu.system@gmail.com
+Password: bj3a8pb4
+FirstEmail: <EMPTY>
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: Facebook
+SubName: Billy Bathgate
+Password: m!mznPjefWUXCogl
+FirstEmail: popupmenu01@web.de
+LoginName: <EMPTY>
+=========================
+Category: social
+RecordName: Twitter
+SubName: @MenuPopup
+Password: oGDY2ItO6M&PcFcY
+FirstEmail: popupmenu.system@gmail.com
+LoginName: @MenuPopup
+=========================
